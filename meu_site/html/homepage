@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filmes Favoritos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+        }
+        a:hover {
+            color: #0056b3;
+        }
+        h1 {
+            color: #333;
+        }
+        img {
+            width: 100px;
+            height: auto;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Titulo teste</h1>
+    </header>
+    <div class="container">
+        <img src=../imagens/homepage.gif width="700">
+        <h2>Teste subtitulo</h2>
+        <ul>
+            <li><a href="nome1.html">Nome 1</a></li>
+            <li><a href="nome2.html">Nome 2</a></li>
+            <li><a href="nome3.html">Nome 3</a></li>
+            <li><a href="nome4.html">Nome 4</a></li>
+            <li><a href="nome5.html">Nome 5</a></li>
+            <li><a href="nome6.html">Nome 6</a></li>
+            <li><a href="nome7.html">Nome 7</a></li>
+            <li><a href="nome8.html">Nome 8</a></li>
+            <li><a href="nome9.html">Nome 9</a></li>
+            <li><a href="nome10.html">Nome 10</a></li>
+        </ul>
+        <p><font color="gray">Cada pessoa escolheu seu filme favorito e compartilhou o motivo da escolha. Clique nos nomes para descobrir!</font></p>
+    </div>
+    <footer>
+        <p>&copy; 2025 - Todos os direitos reservados</p>
+    </footer>
+</body>
+</html>
