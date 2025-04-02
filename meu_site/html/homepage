@@ -37,7 +37,7 @@
             color: #333;
         }
         img {
-            width: 100px;
+            width: 100%;
             height: auto;
             margin-bottom: 10px;
         }
@@ -48,7 +48,7 @@
         <h1>Titulo teste</h1>
     </header>
     <div class="container">
-        <img src=../imagens/homepage.gif width="700">
+        <img src="a0542e_7c57b219585747cb859ca384d63793b2~mv2.gif" width="700">
         <h2>Teste subtitulo</h2>
         <ul>
             <li><a href="nome1.html">Nome 1</a></li>
