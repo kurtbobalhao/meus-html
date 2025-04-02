@@ -1,0 +1,125 @@
+<!DOCTYPE html> 
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cowboy Bebop: O Filme</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../imagens/bebop.png">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Bebas Neue', sans-serif;
+            color: #000;
+            background-color: #fff;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Bebas Neue', sans-serif;
+            color: #ffcc00;
+        }
+        p {
+            font-family: Arial, sans-serif;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>
+            Cowboy Bebop: O Filme - カウボーイビバップ 天国の扉
+        </h1>
+        <marquee>
+            Explore a história, estética, personagens e a icônica trilha sonora de Cowboy Bebop!
+        </marquee>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#historia">História</a></li>
+            <li><a href="#impacto">Impacto e Estética</a></li>
+            <li><a href="#personagens">Personagens</a></li>
+            <li><a href="#trilha">Trilha Sonora</a></li>
+            <li><a href="#influencia">Influência</a></li>
+        </ul>
+    </nav>
+
+    <section id="historia">
+        <h2>História e Criação</h2>
+        <p align="center">
+            <b>
+                Cowboy Bebop: O Filme (Cowboy Bebop: Knockin' on Heaven's Door) é um longa-metragem lançado em 2001, situado entre os episódios 22 e 23 do anime Cowboy Bebop. 
+            </b>
+        </p>
+        <p>
+            O filme segue os caçadores de recompensas da nave Bebop — Spike Spiegel, Jet Black, Faye Valentine, Edward e Ein — enquanto tentam capturar Vincent Volaju, um terrorista que planeja soltar um vírus mortal em Marte durante o Halloween. A história expande o universo do anime, trazendo elementos filosóficos, ação intensa e um desenvolvimento mais profundo dos personagens.
+        </p>
+        <div align="center">
+            <img src= ../imagens/bebop_movie.gif width="400">
+        </div>
+    </section>
+
+    <br><br><br>
+
+    <section id="impacto">
+        <h2>O Impacto e a Estética do Filme</h2>
+        <p>
+            Cowboy Bebop: O Filme manteve a essência estilística da série, mas aproveitou o aumento de orçamento para aprimorar a animação e incluir técnicas cinematográficas mais sofisticadas. O diretor Shinichirō Watanabe combinou a influência do faroeste espacial com o estilo noir, enquanto o design visual trouxe referências à arquitetura árabe, inspirada em viagens de pesquisa no Marrocos. O filme também elevou a complexidade da narrativa, adicionando um antagonista trágico e explorando temas como memória, loucura e propósito.
+        </p>
+    </section>
+
+    <br><br><br>
+
+    <section id="personagens">
+        <h2>Personagens Principais</h2>
+        
+        <h3>Spike Spiegel - スパイク・スピーゲル</h3>
+        <div align="center">
+            <img src=../imagens/spike.gif width="400">
+        </div>
+        <p>
+            Ex-membro do sindicato do crime Red Dragon, Spike é um caçador de recompensas com um passado turbulento. Cínico e carismático, ele segue sua própria filosofia de vida, movendo-se sem medo da morte. No filme, sua luta contra Vincent Volaju serve como um espelho para seus próprios dilemas existenciais, enquanto ele enfrenta seu passado e seu destino inevitável.
+        </p>
+
+        <h3>Vincent Volaju - ヴィンセント・ヴォラージュ</h3>
+        <div align="center">
+            <img src=../imagens/vincent.gif width="400">
+        </div>
+        <p>
+            Um ex-soldado submetido a experimentos que o tornaram imune a um vírus mortal. A perda de suas memórias o deixou sem propósito, levando-o a buscar um sentido na destruição. Vincent é um antagonista complexo, que reflete os medos e dúvidas de Spike sobre a vida e a morte.
+        </p>
+
+        <h3>Faye Valentine - フェイ・ヴァレンタイン</h3>
+        <div align="center">
+            <img src=../imagens/faye.gif width="400">
+        </div>
+        <p>
+            Faye vive atormentada pelo passado que não se lembra. Congelada criogenicamente após um acidente e despertada anos depois, ela perdeu todas as conexões com sua antiga vida. Cínica e pragmática, esconde sua vulnerabilidade atrás de um comportamento provocador e independente. No filme, sua interação com Vincent a faz questionar sua própria identidade e solidão.
+        </p>
+
+        <h3>Edward Wong Hau Pepelu Tivrusky IV - エドワード・ウォン・ハウ・ペペル・チブルスキー4世</h3>
+        <div align="center">
+            <img src=../imagens/edward.gif width="400">
+        </div>
+        <p>
+            Gênio hacker e espírito livre da tripulação da Bebop. Apesar de sua personalidade infantil e excêntrica, Edward tem uma mente brilhante e desempenha um papel fundamental na resolução dos mistérios do filme. Sua forma de enxergar o mundo contrasta fortemente com os outros membros da equipe.
+        </p>
+    </section>
+
+    <br><br><br>
+
+    <section id="trilha">
+        <h2><b>Trilha Sonora</b></h2>
+        <p>
+            A trilha sonora do filme, composta por Yoko Kanno e executada pela banda The Seatbelts, mantém o estilo eclético do anime, misturando jazz, blues e rock. Músicas como "Ask DNA" e "Gotta Knock a Little Harder" foram bem recebidas pelos fãs, enquanto "What Planet is This?" evoca a energia frenética das cenas de ação.
+        </p>
+    </section>
+
+    <br><br><br>
+
+    <section id="influencia">
+        <h2>Influência de Cowboy Bebop</h2>
+        <p>
+            Cowboy Bebop influenciou diversos animes e diretores ao longo dos anos. Séries como <i>Samurai Champloo</i> e <i>Space Dandy</i> herdaram seu estilo eclético e narrativa estilizada. O impacto da série se estendeu para além do Japão, influenciando produções ocidentais como <i>Firefly</i> e <i>The Mandalorian</i>. Seu legado permanece vivo como um dos animes mais respeitados e atemporais já criados.
+        </p>
+    </section>
+</body>
+</html>
