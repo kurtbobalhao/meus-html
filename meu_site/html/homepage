@@ -36,12 +36,6 @@
         h1 {
             color: #333;
         }
-        img {
-            width: 100%;
-            height: auto;
-            max-height: 400px;
-            margin-bottom: 10px;
-        }
     </style>
 </head>
 <body>
@@ -49,7 +43,7 @@
         <h1>Titulo teste</h1>
     </header>
     <div class="container">
-        <img src="a0542e_7c57b219585747cb859ca384d63793b2~mv2.gif">
+        <img src="a0542e_7c57b219585747cb859ca384d63793b2~mv2.gif" width="800" height="auto">
         <h2>Teste subtitulo</h2>
         <ul>
             <li><a href="nome1.html">Nome 1</a></li>
